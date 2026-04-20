@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Dataset corresponding to the article \"Neurovascular Coupling over Cortical Brain Areas and Resting State  Network Connectivity With and Without Rigidified Carotid Artery\". ",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Bakker, Marleen"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
